@@ -9,7 +9,7 @@ Estou aberto a novas possibilidades.
 Entre em contato comigo por:
 
 E-mail: Devlucasa@gmail.com</br>
-Linkedin: <a href="www.linkedin.com/in/devlucasgomes/">devlucasgomes</a></br>
+Linkedin: <a href="www.linkedin.com/devlucasgomes/">devlucasgomes</a></br>
 GitHub: <a href="https://github.com/LucasGomesyt">LucasGomesyt</a>
 
 <div style="display: inline_block"><br>
