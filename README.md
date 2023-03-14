@@ -1,4 +1,4 @@
-## Olá eu sou a Lucas Gomes, desenvolvedor Back-End!
+## Olá eu sou Lucas Gomes, desenvolvedor Back-End!
 
 Um desenvolvedor Back-End, me reconheço como entusiasta em novas tecnologias do mercado, com aprendizado adquirido dia após dia, possuindo foco em desenvolvimento de aplicações Web, machine learning e automação de tarefas. Desenvolvi projetos pessoais a fim de aperfeiçoar meus conhecimentos e me preparar para projetos reais.
 
