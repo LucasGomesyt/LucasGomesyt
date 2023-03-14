@@ -1,10 +1,10 @@
 ## Olá eu sou Lucas Gomes, desenvolvedor Back-End!
 
-Um desenvolvedor Back-End, me reconheço como entusiasta em novas tecnologias do mercado, com aprendizado adquirido dia após dia, possuindo foco em desenvolvimento de aplicações Web, machine learning e automação de tarefas. Desenvolvi projetos pessoais a fim de aperfeiçoar meus conhecimentos e me preparar para projetos reais.
+Um desenvolvedor Back-End, me reconheço como entusiasta em novas tecnologias do mercado, com aprendizado adquirido dia após dia, possuo foco em desenvolvimento de aplicações Web, machine learning e automação de tarefas. Desenvolvi projetos pessoais a fim de aperfeiçoar meus conhecimentos e me preparar para projetos reais.
 
 Possuo práticas com Html, Css, javaScript, React, NodeJs e uma boa base em Python. Um hobby que admiro e prático é o desenvolvimento de jogos Unity 2D/3D na linguagem C#. Me considero ágil e consistente em aprender uma nova linguagem e me adaptar à qualquer mudança, pronto para superar qualquer desafio!
 
-Estou aberto a novas possibilidades.
+Estou aberto a novas oportunidades.
 
 Entre em contato comigo por:
 
@@ -26,7 +26,7 @@ GitHub: <a href="https://github.com/LucasGomesyt">LucasGomesyt</a>
   ##
  
 <div> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/@lucasgomes813" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
