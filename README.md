@@ -8,9 +8,7 @@
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lucas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <h1 align="right">
-  ![logoteste](https://user-images.githubusercontent.com/104578104/225086316-962c62d2-f9b0-4666-9179-76b1c269ad0a.png)
-  </h1>
+  <img align="right" src="https://uploaddeimagens.com.br/imagens/oZ_dtIc">
 </div>
   
   ##
