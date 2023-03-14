@@ -1,5 +1,17 @@
 ## Olá eu sou a Lucas Gomes, desenvolvedor Back-End!
 
+Um desenvolvedor Back-End, me reconheço como entusiasta em novas tecnologias do mercado, com aprendizado adquirido dia após dia, possuindo foco em desenvolvimento de aplicações Web, machine learning e automação de tarefas. Desenvolvi projetos pessoais a fim de aperfeiçoar meus conhecimentos e me preparar para projetos reais.
+
+Possuo práticas com Html, Css, javaScript, React, NodeJs e uma boa base em Python. Um hobby que admiro e prático é o desenvolvimento de jogos Unity 2D/3D na linguagem C#. Me considero ágil e consistente em aprender uma nova linguagem e me adaptar à qualquer mudança, pronto para superar qualquer desafio!
+
+Estou aberto a novas possibilidades.
+
+Entre em contato comigo por:
+
+E-mail: Devlucasa@gmail.com</br>
+Linkedin: <a href="www.linkedin.com/in/devlucasgomes/">devlucasgomes</a></br>
+GitHub: <a href="https://github.com/LucasGomesyt">LucasGomesyt</a>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -8,7 +20,7 @@
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lucas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" src="https://uploaddeimagens.com.br/imagens/oZ_dtIc">
+  <a href="https://imgbb.com/"><img align="right" src="https://i.ibb.co/x1BDrkR/logoteste.png" alt="logoteste" border="0"></a>
 </div>
   
   ##
